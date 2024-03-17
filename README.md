@@ -18,4 +18,4 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 
 - Logo
 
-![Dinar & Fitri Wedding Logo](https://github.com/narr07/wedding-dinarfitri/blob/6e399ae5e910d41a4ee4d5acf8224c1269fc6df1/public/logo.png?raw=true 'Dinar & Fitri Wedding Logo title')
+![Dinar & Fitri Wedding Logo](https://github.com/narr07/wedding-dinarfitri/blob/38f34e71d5c05d6ee050ba6af5f5e303cdb969ea/public/logo.png?raw=true 'Dinar & Fitri Wedding Logo')
