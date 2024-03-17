@@ -6,4 +6,11 @@ export default defineNuxtConfig({
     '@nuxt/ui',
     '@nuxt/fonts',
   ],
+  ui: {
+    global: true,
+    icons: ['pepicons', 'openmoji'],
+  },
+  colorMode: {
+    preference: 'dark',
+  },
 })

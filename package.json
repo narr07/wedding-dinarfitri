@@ -12,6 +12,8 @@
     "lint:fix": "eslint . --fix"
   },
   "dependencies": {
+    "@iconify-json/openmoji": "^1.1.49",
+    "@iconify-json/pepicons": "^1.1.13",
     "@nuxt/image": "^1.4.0",
     "@nuxt/ui": "^2.14.2",
     "nuxt": "^3.11.0",
