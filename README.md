@@ -23,94 +23,38 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 **Dark Color**
 
 ```
-#F4F7F4
-```
-
-```
-#E8EFE9
-```
-
-```
-#D0DED2
-```
-
-```
-#B8CDBB
-```
-
-```
-#A0BCA5
-```
-
-```
-#88AB8E
-```
-
-```
-#68936F
-```
-
-```
-#517256
-```
-
-```
-#39513D
-```
-
-```
-#223025
-```
-
-```
-#172018
+50: '#F4F7F4',
+100: '#E8EFE9',
+200: '#D0DED2',
+300: '#B8CDBB',
+400: '#A0BCA5',
+500: '#88AB8E',
+600: '#68936F',
+700: '#517256',
+800: '#39513D',
+900: '#223025',
+950: '#172018',
 ```
 
 **Light Color**
 
 ```
-#FAFAF7
+50: '#FAFAF7',
+100: '#F2F1EB',
+200: '#DCD9C9',
+300: '#C6C1A7',
+400: '#B0AA85',
+500: '#999164',
+600: '#77714D',
+700: '#555137',
+800: '#333121',
+900: '#11100B',
+950: '#000000',
 ```
 
-```
-#F2F1EB
-```
+- Pattern
 
-```
-#DCD9C9
-```
-
-```
-#C6C1A7
-```
-
-```
-#B0AA85
-```
-
-```
-#999164
-```
-
-```
-#77714D
-```
-
-```
-#555137
-```
-
-```
-#333121
-```
-
-```
-#11100B
-```
-
-```
-#000000
-```
+![Dinar & Fitri Wedding Pattern](https://github.com/narr07/wedding-dinarfitri/blob/ebb8d2731317c5d3b9852ae960eb0c6c445a671e/public/pattern.svg?raw=true 'Dinar & Fitri Wedding Pattern')
 
 - Logo
 
