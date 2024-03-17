@@ -5,6 +5,7 @@ export default defineNuxtConfig({
     '@nuxt/image',
     '@nuxt/ui',
     '@nuxt/fonts',
+    '@vueuse/nuxt',
   ],
   ui: {
     global: true,

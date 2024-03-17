@@ -9,6 +9,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 - [@antfu/eslint-config](https://github.com/antfu/eslint-config) - Code style
 - [@nuxt/image](https://image.nuxt.com/) - Image optimization
 - [@nuxt/ui](https://ui.nuxtjs.com/) - UI components
+- [@vueuse/nuxt](https://vueuse.org/) - Collection of essential Vue Composition Utilities
 
 ## Thanks
 
