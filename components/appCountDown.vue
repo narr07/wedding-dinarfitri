@@ -24,7 +24,7 @@ onMounted(() => {
 
 <template>
   <div>
-    <UCard class="w-1/2 mx-auto lg:w-1/4">
+    <UCard class="">
       <div class="grid grid-cols-4 gap-4 ">
         <div class="flex-col items-center justify-center p-2 text-center rounded-md text-cDark-800 bg-cLight-200">
           <p class="font-bold ">
