@@ -24,7 +24,11 @@ onMounted(() => {
 
 <template>
   <div>
-    <UCard class="">
+    <div class="p-2 ">
+      <h2 class="py-2 font-sans text-2xl text-center">
+        23 April 2024
+      </h2>
+
       <div class="grid grid-cols-4 gap-4 ">
         <div class="flex-col items-center justify-center p-2 text-center rounded-md text-cDark-800 bg-cLight-200">
           <p class="font-bold ">
@@ -59,7 +63,7 @@ onMounted(() => {
           </p>
         </div>
       </div>
-    </UCard>
+    </div>
   </div>
 </template>
 
