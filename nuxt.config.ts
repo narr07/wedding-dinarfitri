@@ -11,7 +11,5 @@ export default defineNuxtConfig({
     global: true,
     icons: ['pepicons', 'openmoji'],
   },
-  colorMode: {
-    preference: 'dark',
-  },
+
 })

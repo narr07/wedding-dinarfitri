@@ -13,22 +13,24 @@ onMounted(() => {
 </script>
 
 <template>
-  <div class="px-4 text-center ">
-    <div class="my-4 rounded-md ">
-      <UCard v-if="name">
+  <div class="p-2 text-center ">
+    <div class="prounded-md ">
+      <UCard v-if="name" class="bg-cLight-300 ">
         <!-- Hanya tampilkan jika ada name -->
-        <template #header>
-          <p class="">
-            Kepada:
-          </p>
-        </template>
-        <h2 class="text-xl md:text-2xl">
+
+        <p class="">
+          Kepada:
+        </p>
+
+        <h2 class="text-xl font-Flamenco md:text-2xl">
           {{ name }}
         </h2>
       </UCard>
     </div>
-    <p class="text-sm">
-      Tanpa Mengurangi Rasa Hormat, Kami Mengundang Bapak/Ibu/Saudara/i untuk Hadir di Acara Kami.
-    </p>
+    <div class="py-2">
+      <p class="text-sm">
+        Tanpa Mengurangi Rasa Hormat, Kami Mengundang Bapak/Ibu/Saudara/i untuk Hadir di Acara Kami.
+      </p>
+    </div>
   </div>
 </template>

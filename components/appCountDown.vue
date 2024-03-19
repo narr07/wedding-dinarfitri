@@ -25,7 +25,7 @@ onMounted(() => {
 <template>
   <div>
     <div class="p-2 ">
-      <h2 class="py-2 font-sans text-2xl text-center">
+      <h2 class="py-2 font-sans text-2xl font-black text-center">
         23 April 2024
       </h2>
 
