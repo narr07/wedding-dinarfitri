@@ -25,7 +25,7 @@ onMounted(() => {
 <template>
   <div>
     <div class="p-2 ">
-      <h2 class="py-2 font-sans text-2xl font-black text-center">
+      <h2 class="py-2 text-2xl font-black text-center font-Inter">
         23 April 2024
       </h2>
 
@@ -66,9 +66,3 @@ onMounted(() => {
     </div>
   </div>
 </template>
-
-<style scoped>
-p {
-  font-family: 'Inter', sans-serif;
-}
-</style>

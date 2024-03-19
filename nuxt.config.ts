@@ -6,6 +6,12 @@ export default defineNuxtConfig({
     '@nuxt/ui',
     '@nuxt/fonts',
     '@vueuse/nuxt',
+    ['@storyblok/nuxt', {
+      accessToken: 'kXd5cgeWzNkSFg6mSoxzcwtt',
+      apiOptions: {
+        region: 'ap',
+      },
+    }],
   ],
   ui: {
     global: true,

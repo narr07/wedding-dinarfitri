@@ -34,8 +34,9 @@ export default {
         950: '#000000',
       },
     }, fontFamily: {
-      Spirax: ['Spirax'],
-      Flamenco: ['Flamenco'],
+      Inter: ['Inter'],
+      Playfair: ['Playfair Display'],
+
     } },
   },
   plugins: [

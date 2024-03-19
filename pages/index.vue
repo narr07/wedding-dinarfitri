@@ -6,7 +6,7 @@ import appCountDown from '~/components/appCountDown.vue';
         Undangan Pernikahan
       </h1>
       <UCard class="my-4 bg-cLight-300">
-        <h2 class="text-2xl text-center">
+        <h2 class="text-2xl font-bold text-center font-Playfair">
           Dinar Permadi Yusup
           <br>
           &
@@ -21,7 +21,7 @@ import appCountDown from '~/components/appCountDown.vue';
       <appNameInvite />
     </UCard>
     <div>
-      <UButton label="Buka" />
+      <UButton to="/invite" label="Buka" />
     </div>
   </div>
 </template>

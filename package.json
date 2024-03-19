@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build": "nuxt build",
-    "dev": "nuxt dev",
+    "dev": "nuxt dev --https --ssl-cert localhost.pem --ssl-key localhost-key.pem    ",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
@@ -16,6 +16,7 @@
     "@iconify-json/pepicons": "^1.1.13",
     "@nuxt/image": "^1.4.0",
     "@nuxt/ui": "^2.14.2",
+    "@storyblok/nuxt": "^6.0.6",
     "@vueuse/nuxt": "^10.9.0",
     "nuxt": "^3.11.0",
     "vue": "^3.4.21",

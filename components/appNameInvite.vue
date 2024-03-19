@@ -22,7 +22,7 @@ onMounted(() => {
           Kepada:
         </p>
 
-        <h2 class="text-xl font-Flamenco md:text-2xl">
+        <h2 class="text-xl font-bold font-Flamenco md:text-2xl">
           {{ name }}
         </h2>
       </UCard>

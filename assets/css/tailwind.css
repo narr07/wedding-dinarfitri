@@ -13,7 +13,7 @@
     @apply bg-[url('/pattern.svg')] text-cDark-900 bg-cDark-950 text-[18px];
   }
   p {
-    @apply font-Flamenco;
+    @apply font-Inter;
   }
   h1,
   h2,
@@ -21,6 +21,6 @@
   h4,
   h5,
   h6 {
-    @apply font-Spirax;
+    @apply font-Playfair;
   }
 }
