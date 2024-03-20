@@ -15,7 +15,7 @@ onMounted(() => {
 <template>
   <div class="p-2 text-center ">
     <div class="prounded-md ">
-      <UCard v-if="name" class="bg-cLight-300 ">
+      <UCard v-if="name" class="bg-cLight-300 dark:bg-cLight-300 ">
         <!-- Hanya tampilkan jika ada name -->
 
         <p class="">

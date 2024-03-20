@@ -5,7 +5,7 @@ import appCountDown from '~/components/appCountDown.vue';
       <h1 class="text-2xl text-center">
         Undangan Pernikahan
       </h1>
-      <UCard class="my-4 bg-cLight-300">
+      <UCard class="my-4 dark:bg-cLight-300 bg-cLight-300">
         <h2 class="text-2xl font-bold text-center font-Playfair">
           Dinar Permadi Yusup
           <br>
